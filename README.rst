@@ -1,4 +1,4 @@
-nudity (but fixed)
+nudity (fixed)
 =======
 .. image:: https://travis-ci.org/canaydogan/nudity.svg?branch=master
     :target: https://travis-ci.org/canaydogan/nudity
