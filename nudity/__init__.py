@@ -4,6 +4,7 @@ from __future__ import print_function
 import os
 import numpy as np
 import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
