@@ -7,7 +7,7 @@ setup(
     long_description=open('README.rst').read(),
     author='Can Aydogan',
     author_email='canaydogan89@gmail.com',
-    url='https://github.com/canaydogan/nudity',
+    url='https://github.com/rahul2240/nudity',
     license='MIT',
     packages=['nudity'],
     include_package_data=True,
